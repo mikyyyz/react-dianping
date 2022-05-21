@@ -1,1 +1,1 @@
-export default a = 8;
+export default a = 6;
